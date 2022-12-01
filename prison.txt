@@ -1,0 +1,32 @@
+prison informantion 
+
+1.admin
+1.prisoner
+-add prisoner
+-view prisoner
+-add tringing
+- view tringng
+-add transfer
+-view transfer
+-add remand case
+-view remand case
+-add prisoner education
+-view prisoner education
+-add case 
+-view case
+2.register jailer detials
+3.view jailer details
+4.view visitor
+5.add employee(new employee dto appoinment to this jails
+6.view employee
+7.logout
+
+
+2.jailer
+
+1.login
+2.view prisoner
+3.add visitor
+4.view employee
+5.logout
+thank youuuuuuu
